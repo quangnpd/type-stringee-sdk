@@ -1,0 +1,13 @@
+{
+  "name": "@types/stringee",
+  "version": "1.0.0",
+  "description": "Declaration for Stringee SDK",
+  "main": "index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts"
+    }
+  },
+  "scripts": {},
+  "private": true
+}
