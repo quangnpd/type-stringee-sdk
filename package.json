@@ -1,5 +1,5 @@
 {
-  "name": "@types/stringee",
+  "name": "@types/stringee-sdk",
   "version": "1.0.0",
   "description": "Declaration for Stringee SDK",
   "main": "index.d.ts",
